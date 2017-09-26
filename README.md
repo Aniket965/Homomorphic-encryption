@@ -16,3 +16,6 @@ repo contains some refrence material about homomorphic encryption
 ## Uses in different fields
 - [Securing cloud with HomoMorphic Encryption](https://arxiv.org/pdf/1409.0829.pdf)
 - [DeepLearning with Homomorphic Encryption](https://github.com/OpenMined/PySyft)
+
+## Slides
+-[Berkley slides](https://simons.berkeley.edu/sites/default/files/docs/3464/simons15sigs.pptx)

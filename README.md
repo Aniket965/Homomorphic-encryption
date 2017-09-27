@@ -6,7 +6,9 @@ repo contains some refrence material about homomorphic encryption
 - [x] [casual introduction to Homomorphic Encryption](https://blog.cryptographyengineering.com/2012/01/02/very-casual-introduction-to-fully/)
 - [x] [Survey of Various Homomorphic Encryption algorithms and Schemes](https://blog.cryptographyengineering.com/2012/01/02/very-casual-introduction-to-fully/)
 - [x] [MicroSoft's Research](https://www.microsoft.com/en-us/research/project/homomorphic-encryption/)
--[Berkley Homomorphic Encryption](https://simons.berkeley.edu/talks/wichs-brakerski-2015-07-06)
+- [Berkley Homomorphic Encryption](https://simons.berkeley.edu/talks/wichs-brakerski-2015-07-06)
+- [core Homomorphic Encryption](http://www.pnas.org/content/112/28/8515.full) 
+- [wiki pallier](https://en.wikipedia.org/wiki/Paillier_cryptosystem)
 
 
 ### FHE
@@ -22,5 +24,10 @@ repo contains some refrence material about homomorphic encryption
 
 ## Slides
 - [Berkley slides](https://simons.berkeley.edu/sites/default/files/docs/3464/simons15sigs.pptx)
+
+## videos
+
+- [ ] [microsoft applications of Homomorphic Encryption](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwi1wdz3-sTWAhUM7yYKHZsvAdoQtwIIMjAB&url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fresearch%2Fvideo%2Fguide-to-applications-of-homomorphic-encryption%2F&usg=AFQjCNEHD-J-gX9AgPP5tvJjXsqwL9UTAA)
+
 
 
